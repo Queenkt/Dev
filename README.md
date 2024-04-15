@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE 
+html>
  
 <html lang="en">
  
@@ -6,26 +7,16 @@
  
 <meta charset="UTF-8" />
  
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
- 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
 <title>REDACTR</title>
- 
 <link rel="stylesheet" href="./styles.css" />
- 
 </head>
- 
 <body>
- 
 <div class="container">
- 
 <h1 class="title">REDACTR</h1>
- 
 <p class="subtitle">
- 
 ...SCRAMBLE SOME WORDS FROM A BODY OF TEXT CONTENT.
- 
 </p>
- 
 <form class="form_wrapper" id="myForm">
  
 <div class="form_content">
@@ -45,7 +36,6 @@ cols="40"
 ></textarea>
  
 </div>
- 
  
  
 <div class="form_content">
